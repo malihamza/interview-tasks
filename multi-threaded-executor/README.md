@@ -21,6 +21,14 @@ div|8|2
 
 - There can be `many` tasks in the CSV file
 
+- Your output must be of the following format (not necessarily in the same order)
+```csv
+1+1=2
+2-1=1
+4*4=16
+8/2=4
+```
+
 - You must use either Java, C or C++ for this task
 
 - If your desired language is not installed on the machine, please install
